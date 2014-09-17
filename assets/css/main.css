@@ -137,6 +137,10 @@ a:after {
     background-size: cover;
 }
 
+#portfoliowrap img {
+  width: 180px;
+  opacity: .8;
+}
 
 #portfoliowrap h3 {
 	color: #ffffff;
